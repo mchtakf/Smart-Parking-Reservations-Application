@@ -1,0 +1,51 @@
+# ========================
+# Android
+# ========================
+*.iml
+.gradle/
+/local.properties
+.idea/
+/build/
+/app/build/
+/captures
+.externalNativeBuild/
+.cxx/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.log
+
+# Keystore (güvenlik - yüklemeyin)
+*.jks
+*.keystore
+
+# Mac / Windows / Linux
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Python Backend
+# ========================
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/venv/
+backend/.venv/
+backend/*.egg-info/
+
+# Model dosyaları (büyük dosyalar)
+backend/lstm_model_95.tflite
+backend/lstm_model_95.keras
+backend/lstm_model_95.h5
+
+# ========================
+# IDE
+# ========================
+.vscode/
+*.swp
+*.swo
+*~
