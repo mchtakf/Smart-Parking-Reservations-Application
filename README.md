@@ -351,6 +351,14 @@ Density classification thresholds:
 
 | Login | Reservation | Prediction | Map | Profile | Payment |
 <img width="426" height="928" alt="image" src="https://github.com/user-attachments/assets/e6b64c95-ed57-4fd8-bf88-c2f0ee3eee95" />
+| Reservation |
+<img width="409" height="899" alt="image" src="https://github.com/user-attachments/assets/bbe6f88c-7c3e-47c0-9ec6-e485995d2dd7" />
+| Profile |
+<img width="416" height="918" alt="image" src="https://github.com/user-attachments/assets/8eabd674-ec97-47d1-875b-7d8c2d66f9fa" />
+
+| Payment |
+<img width="418" height="925" alt="image" src="https://github.com/user-attachments/assets/30fd7a6a-198e-435b-b693-05859d6b97d5" />
+
 |-------------|------------|-----|---------|---------|
 | Gradient background with card-based form | Date/time picker with battery level input | LSTM-powered density forecast with stats | Google Maps with station overlay | Editable profile with vehicle info | Live card preview with payment form |
 
