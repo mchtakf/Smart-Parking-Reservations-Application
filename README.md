@@ -1,4 +1,4 @@
-# ESTÜ Otopark - AI-Powered EV Charging & Parking Management System
+# AI-Powered EV Charging & Parking Management System
 
 An intelligent parking density prediction and electric vehicle (EV) charging station reservation system developed for Eskişehir Technical University campus. The project consists of two main components: an Android mobile application built with Jetpack Compose and a FastAPI backend server powered by an LSTM deep learning model.
 
