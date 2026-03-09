@@ -350,10 +350,10 @@ Density classification thresholds:
 ## App Screens
 
 | Login | Reservation | Prediction | Map | Profile | Payment |
-|-------|-------------|------------|-----|---------|---------|
+<img width="426" height="928" alt="image" src="https://github.com/user-attachments/assets/e6b64c95-ed57-4fd8-bf88-c2f0ee3eee95" />
+|-------------|------------|-----|---------|---------|
 | Gradient background with card-based form | Date/time picker with battery level input | LSTM-powered density forecast with stats | Google Maps with station overlay | Editable profile with vehicle info | Live card preview with payment form |
 
-> Add your screenshots to a `screenshots/` directory and update the table above with image links.
 
 ---
 
